@@ -8,7 +8,7 @@ This project demonstrates a simple microservices setup using **Docker Compose**,
 ---
 
 ##  Project Structure
-.
+<pre> ```.
 ├── service_1/ # Golang application
 │ ├── main.go
 │ └── Dockerfile
@@ -21,7 +21,7 @@ This project demonstrates a simple microservices setup using **Docker Compose**,
 │ └── Dockerfile
 ├── docker-compose.yml # Compose setup for all services
 └── README.md
-
+<pre> ```
 
 ---
 
